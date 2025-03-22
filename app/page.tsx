@@ -54,7 +54,7 @@ export default function Page() {
         the club in many ways. I think it's fair to say that the club was much more *alive* this year than last year.
         Probably the most active it's been since Covid. I think we have not maxed out our potential yet, so I
         hope to continue that trend. When I mention self driving bots, or robot competitions, I am not just saying stuff.
-        But I really do believe these ideas are within our reach. We have about 6 Quanser bots parked in the Hacklab,
+        I really do believe these ideas are within our reach. We have about 6 Quanser bots parked in the Hacklab,
         a 3d printer, 4 different robotics labs on the campus, and we have a community of curious minds. We really
         can build anything. The question is: Are we interested? Are you interested? If you are, please vote for me.
         And more importantly, let me know! DM me on discord, with ideas, questions, or anything you want to tell me!
